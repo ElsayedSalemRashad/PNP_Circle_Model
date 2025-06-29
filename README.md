@@ -82,6 +82,9 @@ These results were obtained under controlled testing using Python-based simulati
 The algorithm shows strong empirical evidence of polynomial-time behavior for traditionally exponential-time NP-complete problems.
 
 > ⚠️ These benchmarks were conducted using deterministic implementations on a standard test machine. Further peer-reviewed validation is encouraged.
+## 🔗 Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elsayed123/circular-p-vs-np/blob/main/circular_solver.ipynb)
 ## Usage
 
 To run the algorithm:
