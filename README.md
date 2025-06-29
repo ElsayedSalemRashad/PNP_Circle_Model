@@ -82,9 +82,12 @@ These results were obtained under controlled testing using Python-based simulati
 The algorithm shows strong empirical evidence of polynomial-time behavior for traditionally exponential-time NP-complete problems.
 
 > ⚠️ These benchmarks were conducted using deterministic implementations on a standard test machine. Further peer-reviewed validation is encouraged.
-## 🚀 Run the Algorithm on Google Colab
+# PNP_Circle_Model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElsayedSalemRashad/PNP_Circle_Model/blob/main/circular-np-to-p-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElsayedSalemRashad/PNP_Circle_Model/blob/main/PNP_Circle_Model_Demo.ipynb)
+
+This project demonstrates a circular model that provides a proposed solution to NP-complete problems...
+
 ## Usage
 
 To run the algorithm:
